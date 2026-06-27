@@ -10,11 +10,11 @@ company.
 
 Cybercrime Psychology Analysis - A case-based analysis of real cybercrime incidents, looking at how they happened and the human behavior behind them.
 
-Demystifying the Mystery Behind Data Handling — A breakdown of chain of custody in digital investigations and the role hashing plays in preserving evidence integrity.
+Demystifying the Mystery Behind Data Handling - A breakdown of chain of custody in digital investigations and the role hashing plays in preserving evidence integrity.
 
-Investigating AI — An examination of how investigators trace AI-related threats including data poisoning, model manipulation, and synthetic data abuse.
+Investigating AI - An examination of how investigators trace AI-related threats including data poisoning, model manipulation, and synthetic data abuse.
 
-Revised Network Traffic Analysis Report — A network traffic analysis report using Wireshark to identify patterns and anomalies.
+Revised Network Traffic Analysis Report - A network traffic analysis report using Wireshark to identify patterns and anomalies.
 
 ## About Me
 
