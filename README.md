@@ -16,6 +16,11 @@ Investigating AI - An examination of how investigators trace AI-related threats 
 
 Revised Network Traffic Analysis Report - A network traffic analysis report using Wireshark to identify patterns and anomalies.
 
+Phishing Email Simulation - A simulated phishing email crafted to demonstrate how attackers deceive targets in real-world scenarios.
+
+Phishing Red Flags - A companion document breaking down the warning signs present in the phishing simulation and how to spot them.
+
+
 ## About Me
 
 I'm passionate about the intersection of cybersecurity and human behavior, specifically how psychology connects to cybercrime.
